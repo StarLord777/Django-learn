@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ac88fe6-c128-492e-9d2a-fdd738fdc766" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/Grade_students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/Students.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/grades.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_01/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_01/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_01/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_01/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_01/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="8ac88fe6-c128-492e-9d2a-fdd738fdc766" name="默认的" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +15,7 @@
     <session id="-1078124091">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -314,8 +304,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20375335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
